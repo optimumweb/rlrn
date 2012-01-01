@@ -9,3 +9,9 @@ Version:        0.1.0
 */
 
 @import url("../monstrfolio/style.css");
+
+/* Rotary Laval Rive-Nord Theme Fixes */
+
+#primary-nav {
+	padding-top: 20px;
+}
