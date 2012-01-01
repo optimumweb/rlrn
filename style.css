@@ -15,3 +15,7 @@ Version:        0.1.0
 #primary-nav {
 	padding-top: 20px;
 }
+
+.page-title {
+	font-family: Helvetica, Arial, Tahoma, sans-serif;
+}
