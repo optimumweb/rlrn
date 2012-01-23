@@ -18,5 +18,6 @@ Version:        0.1.0
 
 .page-title {
 	font-family: Helvetica, Arial, Tahoma, sans-serif;
+	font-weight: bold;
 	color: #005dab;
 }
